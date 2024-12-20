@@ -1,1 +1,1 @@
-# Bash shell and the Linux terminal command
+# Bash Scripting and the Linux terminal
