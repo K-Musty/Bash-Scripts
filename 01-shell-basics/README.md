@@ -41,3 +41,7 @@ echo "Files in the current directory:"
 ls
 
 
+### Instructions
+- Files should start with a shebang followed by path "#!/bin/bash"
+- Change files to executables using "chmod u+x 'file name'"
+
