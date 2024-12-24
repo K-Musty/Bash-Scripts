@@ -10,4 +10,6 @@
 -	id
 -	groups
 
+### Instructions
 
+- All files should be turned to an executable file by using 'chmod u+x'
